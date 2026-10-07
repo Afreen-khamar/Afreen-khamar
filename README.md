@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Afreen Khamar
 
-<!--
-**Afreen-khamar/Afreen-khamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 LeetCode Progress
 
-Here are some ideas to get you started:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Afreenm4?theme=dark\&font=Baloo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Coding Journey
+
+I’m continuously improving my problem-solving and programming skills through LeetCode.
+
+* 🧠 Practicing Data Structures & Algorithms
+* 💻 Solving coding problems regularly
+* 📈 Tracking my progress on LeetCode
+* 🚀 Building projects and improving my development skills
+
+## 🛠️ Skills
+
+* Python
+* C
+* Data Structures & Algorithms
+* SQL
+* Git & GitHub
+
